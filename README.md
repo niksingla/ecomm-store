@@ -1,6 +1,10 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Based E-Commerce Store
+
+**Exclusive Offer Modal for Footwear E-commerce Stor.e** This project is part of a modern **footwear selling e-commerce platform** built with **ReactJS** and styled using **Tailwind CSS**. It features a fully responsive promotional **offer modal popup** that showcases limited-time discounts to enhance user engagement and drive sales.
+
+## Live Demo
+https://ecomm-store-amber.vercel.app/
 
 ## Available Scripts
 
